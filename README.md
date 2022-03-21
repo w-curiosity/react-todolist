@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
++ ref
+  + https://www.youtube.com/watch?v=E1E08i2UJGI
+  + https://github.com/briancodex/react-todo-app-v1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
